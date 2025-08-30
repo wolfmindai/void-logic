@@ -1,2 +1,2 @@
 # void-logic
-All Rights Reserved by Seaph Antelmi and Wolf Mind LLC
+Copyright 2025 All Rights Reserved Seaph Antelmi and Wolf Mind LLC
